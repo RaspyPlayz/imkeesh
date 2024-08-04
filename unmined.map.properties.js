@@ -3,12 +3,12 @@ var UnminedMapProperties = {
     minZoom: -6,
     maxZoom: 0,
     defaultZoom: 0,
-    imageFormat: "jpeg",
+    imageFormat: "webp",
     minRegionX: -106,
     minRegionZ: -49,
     maxRegionX: 198,
     maxRegionZ: 86,
-    worldName: "Copy of GrandLine OP World Project",
+    worldName: "OP World (ASA)",
     background: "",
     markers: new Array()
 }
